@@ -1,4 +1,4 @@
-<!-- Add the project GIF here: ![Arduino projects](projects.gif) -->
+![RFID door project](door.gif)
 
 # Arduino Projects
 

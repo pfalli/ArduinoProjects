@@ -12,6 +12,6 @@ The code defines a pin for each LED, configures them as outputs with `pinMode()`
 - How `HIGH`, `LOW`, and `delay()` affect an LED.
 - How functions make repeated code shorter and easier to understand.
 
-## Project photo
+## Project GIF
 
-> Add a photo of the finished circuit here.
+![Traffic lights project](trafficLights.gif)

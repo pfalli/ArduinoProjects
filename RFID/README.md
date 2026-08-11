@@ -13,6 +13,6 @@ The project uses the `SPI` and `MFRC522` libraries to communicate with the RFID 
 - How to combine several components and libraries in one program.
 - How to divide a larger program into reusable functions and states.
 
-## Project photo
+## Project GIF
 
-> Add a photo of the RFID reader, LCD, and servo setup here.
+![RFID access system](badge.gif)

@@ -13,6 +13,6 @@ The sketches use `analogRead()` with thresholds to detect direction and `INPUT_P
 - How to build a simple game loop and manage game state.
 - How to use `millis()`, randomness, collision detection, and custom LCD graphics.
 
-## Project photo
+## Project GIF
 
-> Add a photo of the joystick and LCD game here.
+![Snake game controlled by a joystick](snake.gif)

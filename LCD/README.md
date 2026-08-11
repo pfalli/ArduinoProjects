@@ -13,6 +13,3 @@ All sketches use the `LiquidCrystal` library. They position text with `setCursor
 - How to design custom 5×8 pixel characters.
 - How loops and timing can create simple animations and stories.
 
-## Project photo
-
-> Add a photo of the LCD animations here.

@@ -12,6 +12,3 @@ The two joystick axes are connected to analog inputs and read with `analogRead()
 - How to read a digital push button.
 - How to use the Serial Monitor to inspect inputs and debug hardware.
 
-## Project photo
-
-> Add a photo of the joystick circuit here.

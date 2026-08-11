@@ -12,6 +12,3 @@ The sketch uses `analogRead()` to measure a voltage divider, calculates the ther
 - How a thermistor's resistance can be converted into temperature.
 - How to format values on an LCD and use serial output for debugging.
 
-## Project photo
-
-> Add a photo of the finished circuit here.
